@@ -5,16 +5,18 @@ You can click the Preview link to take a look at your changes.
 
 # Amarsoft
 
-Welcome to the official GitHub organization of **Amarsoft**!  
+Welcome to the official GitHub organization of **Amarsoft Information Technology Co., Ltd.**!  
 
-We are a leading provider of IT solutions for the financial sector, specializing in software development, business consulting, data services, and intelligent solutions tailored for the banking industry and beyond. Our mission is to empower financial institutions with innovative, reliable, and efficient technology.
+As the No.1 provider of loan and risk solutions in the Chinese market, Amarsoft empowers financial institutions globally with innovative IT solutions. We bring over two decades of deep industry expertise to the forefront of financial technology. Our team of nearly 4,000 professionals holds over 120 intellectual property rights, enabling us to support the management of over 10 trillion in financial assets . We specialize in delivering comprehensive solutions spanning software development, business consulting, data services, and intelligent applications tailored for the banking industry and beyond .  
 
 🌐 **Website**: [www.amarsoft.com](https://www.amarsoft.com)  
 📍 **Industry**: Financial IT  
 🔍 **Focus**: Banking Software, Consulting, Data Solutions, Smart Services  
 
 ## About Us
-At Amarsoft, we combine deep industry expertise with cutting-edge technology to deliver comprehensive solutions that address the evolving needs of the financial world. Our projects range from robust software platforms to advanced data analytics and AI-driven tools, all designed to enhance operational efficiency and decision-making for our clients.
+
+With a strong foundation built over the past 20 years, we have established long-term partnerships with numerous renowned clients, including 79 out of the top 100 banks in China . Our expertise extends beyond banking to serve over 100 insurance companies, trusts, and other financial institutions, as well as collaborations with over 100 non-banking financial institutions, including digital financial companies . Furthermore, our SaaS cloud platform supports over 2000 micro loan companies .   
+
 
 ## Our Repositories
 This GitHub organization hosts a collection of projects, tools, and resources developed by Amarsoft. Explore our repositories to discover:
